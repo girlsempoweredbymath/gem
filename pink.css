@@ -9,5 +9,9 @@
 
 .pinkfooter{
   background-color: rgb(255, 227, 247);
-  padding: 100px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
